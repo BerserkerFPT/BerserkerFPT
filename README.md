@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Le Minh Dung
 
-<!--
-**BerserkerFPT/BerserkerFPT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student and AI enthusiast passionate about building intelligent systems.  
+My interests lie in computer vision, machine learning, and real-time edge AI applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 Projects
+
+- 🧠 **Face Recognition** – Real-time facial recognition using YOLOv8 + DeepFace  
+- 🌾 **Rice Purity Classification** – ISI publication using feature engineering + ensemble learning
+
+---
+
+## 🛠 Tech Stack
+
+`Python` | `PyTorch` | `YOLO` | `Jetson Nano` | `OpenCV`  
+`ONNX` | `Scikit-learn` | `LaTeX` | `R` | `Jupyter`
+
+---
+
+## 📄 Publication
+
+> **Progressive Feature Enrichment and Ensemble Learning for Enhanced Rice Seed Purity Classification**  
+> _Accepted at Alexandria Engineering Journal_  
+> Co-authored with mentor and researchers at FPT University  
+> [Link to article](https://www.sciencedirect.com/science/article/pii/S1110016825009184)
+
+---
+
+## 📫 Contact
+
+- Email: dunglmde180498@fpt.edu.vn
