@@ -7,8 +7,8 @@ My interests lie in computer vision, machine learning, and real-time edge AI app
 
 ## 🔍 Projects
 
-- 🧠 **Face Recognition** – Real-time facial recognition using YOLOv8 + DeepFace  
-- 🌾 **Rice Purity Classification** – ISI publication using feature engineering + ensemble learning
+- 🧠 **Face Recognition** – Real-time facial recognition on Orin Nano
+- 🌾 **Rice Purity Classification** – ISI/Scopus Q1 publication using feature engineering + ensemble learning
 
 ---
 
