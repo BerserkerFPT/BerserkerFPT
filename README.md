@@ -7,7 +7,7 @@ My interests lie in computer vision, machine learning, and real-time edge AI app
 
 ## 🔍 Projects
 
--  **Face Recognition** – Real-time facial recognition on Orin Nano
+-  **Face Recognition** – Real-time facial recognition, authentication on Orin Nano
 -  **Rice Purity Classification** – ISI/Scopus Q1 publication using feature engineering + ensemble learning
 -  **Tooth Caries Detection** – Proposed a new two-stage segmentation method (tooth detection → lesion segmentation) for higher accuracy compared to direct X-ray segmentation; awarded 3rd prize at ResConnect 2025
 ---
