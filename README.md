@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Le Minh Dung
 
 I'm a student and AI enthusiast passionate about building intelligent systems.  
-My interests lie in computer vision, machine learning, and real-time edge AI applications.
+My interests lie in computer vision, NLP, machine learning, and real-time edge AI applications.
 
 ---
 
